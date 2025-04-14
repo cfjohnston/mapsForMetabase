@@ -3,6 +3,7 @@
   "features": [
     {
       "type": "Feature",
+      "zone": "1 (Moncton & South-East Area)",
       "properties": {},
       "geometry": {
         "coordinates": [
@@ -38,6 +39,7 @@
     },
     {
       "type": "Feature",
+      "zone": "2 (Fundy Shore & Saint John Area)",
       "properties": {},
       "geometry": {
         "coordinates": [
